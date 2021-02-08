@@ -1,8 +1,10 @@
 {
   "version": 2,
-  "dgSpecHash": "3+y12jJ421VTnIGLDCoNPSCOFFKE9sxYZKuPZQC2R5sZiVGO/ym8oOZVDdcEunnSYP1AxJESUII9/1csxlgNGg==",
+  "dgSpecHash": "f45cf6pq5vJByVZmc5+Y9Qkd2IzLHvfY8XyV1xB25hWAkqwFj1AtS/bGVa30Z4y6H2UdDhkeKfcspnYPiDX1jQ==",
   "success": true,
   "projectFilePath": "/Users/lzrv/Documents/GitHub/SignalRWeb/SignalRWeb/SignalRWeb.csproj",
-  "expectedPackageFiles": [],
+  "expectedPackageFiles": [
+    "/Users/lzrv/.nuget/packages/microsoft.typescript.msbuild/4.1.2/microsoft.typescript.msbuild.4.1.2.nupkg.sha512"
+  ],
   "logs": []
 }
